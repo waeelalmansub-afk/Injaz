@@ -1,0 +1,20 @@
+{
+  "name": "إنجاز | Injaz",
+  "short_name": "Injaz",
+  "description": "مجموعة من الأدوات الذكية والمجانية للعمل، الدراسة، الملفات، الحسابات، النصوص والتصميم",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
